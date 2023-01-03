@@ -1,0 +1,12 @@
+body {
+    background-color: beige;
+}
+
+#start-game {
+    border: 15px;
+    border: dashed;
+}
+
+button:hover {
+    background-color: lime;
+}
